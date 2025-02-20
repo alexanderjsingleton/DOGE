@@ -1,5 +1,9 @@
 # Created by venv; see https://docs.python.org/3/library/venv.html
-*
 __pycache__/
 *.csv
+bin/
 doge_analysis/bin/
+doge_analysis/lib/
+doge_analysis/include/
+doge_analysis/share/
+
