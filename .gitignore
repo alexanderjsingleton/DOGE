@@ -7,3 +7,5 @@ doge_analysis/lib/
 doge_analysis/include/
 doge_analysis/share/
 
+pyvenv.cfg
+*.csv
