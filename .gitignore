@@ -9,3 +9,5 @@ doge_analysis/share/
 
 pyvenv.cfg
 *.csv
+lib/
+share/
